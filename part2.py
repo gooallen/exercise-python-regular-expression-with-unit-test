@@ -1,7 +1,7 @@
 
 """
 Byeongyun (Allen) Goo
-goo00001@algonquinlive.com
+hello@allengoo.com
 
 
 Part 2:
@@ -91,7 +91,6 @@ print("The sum of the number(s):", sum_list(float_list))
 print("The list of the number(s) in descending sorted order:", sort_reverse(float_list))
 print("The list of the number(s) that have digits '1' and '5' in it:", digits_and(split_string_list))
 print("The list of the number(s) that have digits '1' or '5' in it:", digits_or(split_string_list))
-print("Thank you for the opportunity!")
 
 
 
