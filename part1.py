@@ -2,7 +2,7 @@
 """
 
 Byeongyun (Allen) Goo
-goo00001@algonquinlive.com
+hello@allengoo.com
 
 
 Part 1:
