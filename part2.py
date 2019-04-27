@@ -14,8 +14,6 @@ Finally, the program should generate and display two new lists:
 - the first displays the numbers that have digits "1" and "5" in it
 - the second displays the numbers that have digits "1" or "5" in it
 
-Regular expressions are recommended for the last part.
-
 """
 
 import statistics
